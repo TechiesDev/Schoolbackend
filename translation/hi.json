@@ -1,0 +1,49 @@
+{
+	"MESSAGE": "नमस्ते",
+	"not_Found": "हमारे API पर नहीं मिला",
+	"signup": {
+		"username_exists": "उपयोगकर्ता नाम पहले से ही मौजूद है",
+		"signup_success": "उपयोगकर्ता साइन अप सफल"
+	},
+	"signin": {
+		"invalid_credentials": "अमान्य उपयोगकर्ता नाम या पासवर्ड",
+		"invalid_password": "अमान्य पासवर्ड",
+		"signin_success": "साइन इन सफल"
+	},
+	"forget": {
+		"invalid_user": "अमान्य उपयोगकर्ता",
+		"failed_send_otp": "OTP भेजने में विफल",
+		"email_sent": "ईमेल सफलतापूर्वक भेजा गया"
+	},
+	"reset": {
+		"invalid_user": "अमान्य उपयोगकर्ता",
+		"incorrectOtp": "प्रदान किया गया OTP गलत या समय समाप्त हो गया है",
+		"invlid_otp": "अमान्य या समाप्त हो गया OTP",
+		"paswrd_success": "पासवर्ड सफलतापूर्वक अपडेट किया गया"
+	},
+	"validator": {
+		"invld_email": "वैध ईमेल पता होना चाहिए",
+		"short_password": "पासवर्ड कम से कम 6 वर्णों का होना चाहिए",
+		"otp_format": "OTP 6 अंकों का होना चाहिए",
+		"phon_num_rqird": "फोन नंबर आवश्यक है",
+		"phon_num_lngth": "फोन नंबर 10 अंकों का होना चाहिए",
+		"invld_phone_num": "अमान्य फोन नंबर",
+		"name_empty": "नाम खाली नहीं होना चाहिए"
+
+	},
+	"getById": {
+		"user_not_found": "उपयोगकर्ता नहीं मिला",
+		"usr_success": "उपयोगकर्ता सफलतापूर्वक मिला"
+	},
+	"update": {
+		"user_not_found": "उपयोगकर्ता नहीं मिला",
+		"updated_success": "उपयोगकर्ता सफलतापूर्वक अपडेट किया गया"
+	},
+	"delete": {
+		"user_not_found": "उपयोगकर्ता नहीं मिला",
+		"deleted_success": "उपयोगकर्ता सफलतापूर्वक हटा दिया गया"
+	},
+	"signup.message1": "साइन अप संदेश 1",
+	"signup.error1": "साइन अप त्रुटि 1",
+	"message": "संदेश"
+}
